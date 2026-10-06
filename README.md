@@ -95,6 +95,14 @@ Reference integration project demonstrating MVVM architecture in a Processing en
 
 ### [`cpz-utils`](https://github.com/cdpoloz/cpz-utils)
 Reusable Java utility library with no external dependencies, focused on time, color, and noise.
+<br>
+<br>
+
+### [`Theuth Framework`](https://github.com/cdpoloz/cpz-theuth-framework)
+
+An adaptable framework for building personal and shared working memory with LLMs, focused on provenance, traceable knowledge, and continuity across providers.
+<br>
+<br>
 
 ---
 
